@@ -1,0 +1,25 @@
+.nav_Bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+.nav_item {
+    float: left;
+}
+
+.nav_text{
+    padding: 5px 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.categoryBox{
+
+}
+
+.categoryItem{
+
+}

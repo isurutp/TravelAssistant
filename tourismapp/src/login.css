@@ -1,0 +1,15 @@
+.loginDiv {
+    padding-bottom: 40%;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 15%;
+}
+
+.loginform{
+    border: black;
+    border-width: thick;
+}
+
+.displayed{
+    padding-left: 30px;
+}
