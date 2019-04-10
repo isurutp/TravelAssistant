@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #FFFFFF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.divMain {
+  min-height: 100vh;
+  color: white;
+  font-family: "Comic Sans MS";
+  margin-top: -19px;
+  padding-top: 50px;
+  background-color: #00BAA5;
+}
+
+h2{
+  text-align: center;
+}
+
+.p1{
+  margin-top: -10px;
+}
+
+.hButton {
+  margin-left: 52px;
+  height: 200px;
+  font-family: "Comic Sans MS" ;
+  border: transparent;
+  border-radius: 10px;
+  background-color: #E4E4E4;
+}
+
+.hrefLogin {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.divHead {
+  height: 50px;
+  background-color: #282c34;
+  color: white;
+  text-align: right;
+  margin-top: 20px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

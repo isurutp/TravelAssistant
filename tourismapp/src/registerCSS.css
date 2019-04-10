@@ -1,0 +1,58 @@
+.App{
+
+  background-color: white;
+}
+
+.Aside{
+  background-color: #00BAA5;
+}
+
+.divForm2{
+  width: 500px;
+  height: 25px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.input1 {
+  width: 900px;
+  height: 50px;
+  margin-left: 300px;
+  border-radius: 5px;
+
+}
+
+.input2{
+  width: 600px;
+  height: 60px;
+  margin-left: 400px;
+  margin-top: 70px;
+}
+
+.dd{
+  color: black;
+  margin-top: 0px;
+  background-color: #66DAC7;
+  margin-bottom: 40px;
+  text-align: center;
+  height: 100px;
+
+}
+
+
+
+Item1{
+    text-align: left;
+}
+
+
+
+.divForm{
+
+  width: 100%;
+  background-color: #61dafb;
+  margin-top: 0px;
+  padding: 25px 40px;
+  overflow: auto;
+  text-align: right;
+}
